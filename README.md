@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and101/i5NazLyw.gif' title='Project 2' width='' alt='Project 2' />
+![Project 2](https://github.com/vappulla/and101-project2-starter/assets/142449928/d87a2922-e855-4928-912c-0638566acca6)
 
 GIF created with **ScreenToGIF**
 
